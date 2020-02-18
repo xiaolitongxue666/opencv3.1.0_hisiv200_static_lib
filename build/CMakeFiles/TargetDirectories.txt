@@ -1,0 +1,1 @@
+/home/xiaoli/Code/OpenCV/opencv_hisi_test/build/CMakeFiles/opencv_hisi_test.dir
